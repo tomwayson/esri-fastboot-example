@@ -1,0 +1,6 @@
+/* esri styles */
+@import url('https://js.arcgis.com/4.5/esri/css/main.css');
+
+.web-map {
+  height: 400px;
+}
